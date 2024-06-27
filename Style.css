@@ -93,6 +93,8 @@ h5{
 #box-main{
     width: 100%;
     min-height: 400px;
+    position: absolute;
+    top: 40px;
 }
 
 #box-main .box{
